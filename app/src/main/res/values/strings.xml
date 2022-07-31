@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataStoreExample</string>
+    <string name="Nombre">Nombre</string>
+    <string name="eres_vip">Eres VIP</string>
+    <string name="guardar">Guardar</string>
+    <string name="Required">Requerido</string>
+    <string name="required_name">Este campo es requerido</string>
+    <string name="recuperar">Recuperar</string>
+</resources>
